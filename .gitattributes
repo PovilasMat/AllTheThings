@@ -66,13 +66,13 @@
 ###############################################################################
 # used to remove files from deployment using `git archive`
 ###############################################################################
-.editorconfig export-ignore
-.gitattributes export-ignore
-.gitignore export-ignore
-.pkgmeta export-ignore
-.pre-commit-config.yaml export-ignore
-_config.yml export-ignore
-setup.cfg export-ignore
-contrib export-ignore
-.contrib export-ignore
-.github export-ignore
+#.editorconfig export-ignore
+#.gitattributes export-ignore
+#.gitignore export-ignore
+#.pkgmeta export-ignore
+#.pre-commit-config.yaml export-ignore
+#_config.yml export-ignore
+#setup.cfg export-ignore
+#contrib export-ignore
+#.contrib export-ignore
+#.github export-ignore
